@@ -36,13 +36,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/asalef10/HotelProjectSolidity.git"
-  },
-  "bugs": {
-    "url": "https://github.com/asalef10/HotelProjectSolidity/issues"
-  },
-  "homepage": "https://github.com/asalef10/HotelProjectSolidity#readme"
+  }
 }

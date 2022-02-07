@@ -1,0 +1,134 @@
+{
+  "Header": {
+    "title": "Welcome to Plama Hotel",
+    "paragraph": ""
+  },
+  "About": {
+    "paragraph": "Hello. Our hotel has been present for over 20 years. We make the best or all our customers.",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "The hotel room was clean, nice and spacious. Breakfast offered with a wide variety of food. The staff were friendly and helpful. The location is just perfect for a walk around the city centre",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "Affordable price, excellent location! Quite smooth reservation process, very friendly service at the desk, clean & large room for two, very quiet over the rooftops of Helsinki - a very pleasant stay at the heart of Helsinki, in the middle of practically everything!",
+      "name": "Johnathan Doe"
+    },
+    
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "We stayed at Hotel Arthur on our trip to Helsinki and it was great. Location was perfect for walking to everything! Staff was helpful and breakfast was great. Room was perfect for my daughter and myself. The only thing was our room faced the main road and the traffic was noisy all night. Would definite stay here again",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "The hotel located in the city center and lots of public transport, nearby restaurants, bars etc. The hotel staff are nice and friendly. Breakfast not bad. The room a bit small but the bed is really comfortable",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "I has happy with my stay at the Hotel Arthur. It is very close to Helsinki railway station (about a five minute walk) clean, with friendly staff. I enjoyed the buffet breakfast. Really, no complaints - I would stay there again and recommend it to others",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "Good relaxing break! Friendly, welcoming staff. Very good location for city centre and local transport. Overall an enjoyable stay. The hotel is old and could do with some renovation, but it seems like this issue is being addressed",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "https://media-exp1.licdn.com/dms/image/C4E03AQFYjI4MQuVfUA/profile-displayphoto-shrink_400_400/0/1641432309605?e=1648684800&v=beta&t=rdiDG-zIbL17ZBbSSl27WHzHaekYyMr8UYKHRslW33w",
+      "name": "Asalef Alena",
+      "job": "Full-stack,solidity Developer"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-coffee",
+      "title": "Coffee",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-glass",
+      "title": "Drink",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-cutlery",
+      "title": "Food",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Friends",
+      "text": ""
+    } 
+  ],
+
+  "netWorkMessage":"We works on Polygon testnet (Mumbai) Please switch to Mumbai Network",
+   "networkDataPolygonTest":[
+    {
+      "chainId": "0x13881",
+      "chainName": "Polygon Test",
+      "rpcUrls":["https://matic-mumbai.chainstacklabs.com"],
+      "nativeCurrency":{"name":"Polygon Testnet Mumbai","symbol":"matic","decimals":18},
+      "blockExplorerUrls":["https://mumbai.polygonscan.com/"]
+    }
+  ]
+}

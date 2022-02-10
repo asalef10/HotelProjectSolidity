@@ -18,7 +18,7 @@ const TransferTokenERC20 = () => {
         <div className="alert alert-warning" role="alert">
           <h4 className="alert-heading"> Transfer Token</h4>
           <h3>
-            You need use "AL" token to rent room , you can Transfer "AL" token
+            You need to use "AL" token to rent room , you can Transfer "AL" token
             to your account
           </h3>
           <hr />

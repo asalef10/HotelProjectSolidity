@@ -48,17 +48,18 @@ export const Navigation = (props) => {
           className="collapse navbar-collapse"
           id="bs-example-navbar-collapse-1"
         >
-          {props.netWorkMessage && (
-            <>
-              <h4 style={{ color: 'red', textAlign: 'center' }}>
+          {window.ethereum?.selectedAddress && props.netWorkMessage && <>
+            <h4 style={{ color: 'red', textAlign: 'center' }}>
                 {props.netWorkMessage}
                 <br />
                 <button onClick={polygonTestNetwork} className="btn btn-info">
                   Switch Network
                 </button>
               </h4>
-            </>
-          )}
+          
+          </>}
+        
+          
           <ul className="nav navbar-nav navbar-right">
             <li>
               <a href="#features" className="page-scroll">

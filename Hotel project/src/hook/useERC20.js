@@ -1,4 +1,5 @@
 import erc20ABI from '../Articals/ERC20';
+
 const Web3 = require('web3');
 const useERC20 = () => {
   const web3 = new Web3(window.ethereum);
